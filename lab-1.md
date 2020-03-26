@@ -13,17 +13,17 @@ For this lab you will need:
 ### Install Git
 
 #### Determine if Git is installed
-Since you are using a C9 workspace, Git should already be installed. You can verify this with the following command:
+Since you are using a cloud workspace, Git should already be installed. You can verify this with the following command:
 
 ```console
 $ git --version
 ```
 
-You may be doing this outside of C9 though so if you do not get a response like the following:
+You may be doing this outside of the cloud workspace though, so if you do not get a response like the following:
 
-`git version 2.10.2`
+`git version 1.9.1`
 
-You should proceed to the [git-scm](https://git-scm.com/) site for download links and installation instruction. 
+You should proceed to the [git-scm](https://git-scm.com/) site for download links and installation instructions. 
 > Note: You may not get the exact version listed above. Any version of `git` will work for this lab.
 
 #### Configuring Git
